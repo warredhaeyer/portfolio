@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700">
+<defs><radialGradient id="bg"><stop stop-color="#253855"/><stop offset="1" stop-color="#0d1522"/></radialGradient><linearGradient id="glass" x2="1" y2="1"><stop stop-color="#a6d5ff" stop-opacity=".45"/><stop offset="1" stop-color="#6191d5" stop-opacity=".04"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#8cb5e7" stroke-opacity=".13" fill="none"/></pattern></defs>
+<path fill="url(#bg)" d="M0 0h1000v700H0z"/><path fill="url(#grid)" d="M0 0h1000v700H0z"/>
+<ellipse cx="500" cy="575" rx="240" ry="40" fill="#06101c" opacity=".6"/>
+<g stroke="#9cc9ff" stroke-width="2" stroke-linejoin="round"><path d="M500 135 730 267 500 400 270 267Z" fill="url(#glass)"/><path d="M270 267 500 400V575L270 442Z" fill="url(#glass)"/><path d="M500 400 730 267V442L500 575Z" fill="#79adf1" fill-opacity=".12"/><path d="M500 135V310M270 442 500 310 730 442" fill="none" stroke-dasharray="6 8" opacity=".5"/><path d="M500 400V575" stroke="#d9e8ff"/></g>
+<g stroke="#9cc9ff" stroke-width="1" opacity=".35"><path d="M225 295v175m-12-175h24m-24 175h24M300 505l179 104m-186-94 12-21m168 125 12-21M760 290v159m-12-159h24m-24 159h24"/></g>
+<g fill="#d3e5ff"><circle cx="500" cy="135" r="4"/><circle cx="270" cy="267" r="4"/><circle cx="730" cy="267" r="4"/><circle cx="500" cy="400" r="4"/><circle cx="500" cy="575" r="4"/></g>
+</svg>
